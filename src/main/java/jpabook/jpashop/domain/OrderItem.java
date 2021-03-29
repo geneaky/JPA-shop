@@ -10,6 +10,7 @@ import javax.persistence.*;
 
 import static javax.persistence.FetchType.*;
 
+
 @Entity
 @Getter @Setter
 @NoArgsConstructor(access=AccessLevel.PROTECTED)
